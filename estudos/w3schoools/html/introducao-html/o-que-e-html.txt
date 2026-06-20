@@ -1,0 +1,5 @@
+• html significa HYPER TEXT MARKUP LANGUAGE (linguagem de marcação ded hipertexto).
+
+•html e uma linguagem usada para criaçoes de web sites.
+
+•com html conseguimos montar nosso esqueleto do nosso site(os elementos html rotulam partes do conteudo, como"isto e um titulo", "isto e um paragrafo", "isto e um link", etc...) 
