@@ -1,4 +1,4 @@
-# portifolio HTML
+# portfolio HTML
 este é meu primeiro projeto utilizando apenas HTML5
 ## tecnologia
 -HTML5
